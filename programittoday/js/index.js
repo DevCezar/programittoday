@@ -1,6 +1,6 @@
 document.getElementById('start').addEventListener("click", chronological);
 function chronological() {
-    window.location.href = 'GuidedPath.html'; 
+    window.location.href = 'GuidedPath-Start.html'; 
 }
 
 var d = new Date(); 
